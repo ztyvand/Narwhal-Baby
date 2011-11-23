@@ -1,0 +1,9 @@
+Narwhal Baby is an open-source novel/la about a vampiric narwhal, a lupine walrus, and a rather boring beluga. This is not Twilight satire. I repeat, this is NOT satire.
+
+Ground Rules:
+1. A chapter is a file.
+2. In order to facilitate diffs, let's preserve newline characters for paragraph breaks. (The way one would naturally write.)
+3. If your pull request contains the following words, I will probably reject it completely: veritable (this word has no meaning), robust (unless you're being funny with it), and cold (obviously everything is going to be cold. Think of something else to say).
+4. I'm just as new to Git/GitHub as the rest of you, so if I'm doing it wrong, say something.
+
+[PS This is satire.]
